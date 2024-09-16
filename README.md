@@ -5,7 +5,7 @@
 This application is designed for comprehensive portfolio analysis, incorporating backtesting, Monte Carlo simulations, and signal generation. The application supports multiple weighting strategies, theme selection, and various portfolio analysis tasks, making it a versatile tool for financial analysis.
 
 Download the installer:
-https://drive.google.com/file/d/1X1VMu2vObvIF0lOdViOV69ehLunJhTFD/view?usp=drive_link
+https://drive.google.com/file/d/1TA1foUh9AM8qhg5sAb6djxqIdldrN1ca/view?usp=drive_link
 
 ## Features
 
